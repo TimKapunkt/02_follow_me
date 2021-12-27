@@ -1,5 +1,6 @@
 {
     "name": "02_Follow_Me",
+    "version": "0.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
